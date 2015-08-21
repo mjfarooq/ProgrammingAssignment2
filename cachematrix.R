@@ -1,7 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Programming Assignment 2
+## Caching the inverse of a matrix
 
-## Write a short comment describing this function
+## makeCacheMatrix function contains several functions to set and get the values of the 
+## input/output
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
